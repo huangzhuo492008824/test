@@ -1,2 +1,13 @@
 This is a git test!
 testing
+
+Windows 安装配置git
+git下载地址：https://msysgit.github.io/
+下载git，进入git然后配置账户：
+git config --global user.name "YOUR NAME"
+git config --global user.email "YOUR EMAIL ADDRESS"
+
+ssh认证配置：
+https://help.github.com/articles/generating-ssh-keys/
+
+添加git的环境变量，pycharm中就能够连接上github 了。
